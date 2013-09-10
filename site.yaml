@@ -62,5 +62,5 @@ tagger:
 publisher:
     github:
         type: hyde.ext.publishers.dvcs.Git
-        path: ../viloki9.github.com
+        path: deploy
         url: git@github:viloki9/viloki9.github.io
