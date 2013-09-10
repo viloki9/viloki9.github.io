@@ -1,0 +1,11 @@
+.content_col, .navbar{
+    padding-top:1em;
+}
+.content_row{
+    padding-left:2em;
+}
+
+.content_row .span3{
+    padding-left:3em;
+    padding-right:3em;
+}
