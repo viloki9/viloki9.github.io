@@ -59,3 +59,8 @@ tagger:
             archive_extension: html
             meta:
                 listable: false
+publisher:
+    github:
+        type: hyde.ext.publishers.dvcs.Git
+        path: ../viloki9.github.io
+        url: git@github.com:viloki9/viloki9.github.io
