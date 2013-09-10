@@ -62,5 +62,5 @@ tagger:
 publisher:
     github:
         type: hyde.ext.publishers.dvcs.Git
-        path: ../userpage-gen
-        url: git@github.com:viloki9/viloki9.github.io
+        path: ../userpage-gen/deploy
+        url: git@github.com:viloki9/viloki9.github.io.git
