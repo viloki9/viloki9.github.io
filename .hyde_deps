@@ -23,5 +23,6 @@
 !!python/unicode 'media/js/libs/modernizr-1.7.min.js': []
 !!python/unicode 'media/js/main.js': []
 !!python/unicode 'media/js/plugins.js': []
+!!python/unicode 'media/js/vendor/jquery-1.9.1.min.js': []
 !!python/unicode 'portfolio/index.html': [macros.j2, base.j2, analytics.j2]
 !!python/unicode 'tmp.html': [macros.j2, base.j2, analytics.j2]
